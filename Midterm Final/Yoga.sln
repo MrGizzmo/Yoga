@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{96208096-4084-483B-8754-67DA9E6D08F6}"
+	ProjectSection(SolutionItems) = preProject
+		Class.html = Class.html
+		Contact.html = Contact.html
+		Index.html = Index.html
+		schedule.html = schedule.html
+		Style.css = Style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{8ABF15A0-AD30-422E-A6E8-6DC23FBF2B61}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Yoga Studio\images\Door1.jpg = ..\..\..\Desktop\Yoga Studio\images\Door1.jpg
+		..\..\..\Desktop\Yoga Studio\images\logo.jpg = ..\..\..\Desktop\Yoga Studio\images\logo.jpg
+		StyleSheet1.css = StyleSheet1.css
+		..\..\..\Desktop\Yoga Studio\images\yogadoor.jpg = ..\..\..\Desktop\Yoga Studio\images\yogadoor.jpg
+		..\..\..\Desktop\Yoga Studio\images\yogalounge.jpg = ..\..\..\Desktop\Yoga Studio\images\yogalounge.jpg
+		..\..\..\Desktop\Yoga Studio\images\yogamat.jpg = ..\..\..\Desktop\Yoga Studio\images\yogamat.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8ABF15A0-AD30-422E-A6E8-6DC23FBF2B61} = {96208096-4084-483B-8754-67DA9E6D08F6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C1E4EC1-7C36-4800-B25C-F1743E234515}
+	EndGlobalSection
+EndGlobal

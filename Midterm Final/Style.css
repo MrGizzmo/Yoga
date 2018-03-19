@@ -1,0 +1,191 @@
+﻿
+body {
+    background-color: #3F2860;
+    font-family: font-family Verdana, Arial, sans-serif; 
+}
+
+/* Header Styles */
+header {
+    margin-top: 0px;
+    padding-top: 1em;
+    padding-right: 0em;
+    display: block;
+    height: 120px;
+    text-align: left;
+    padding-left: 0px;
+    background: no-repeat;
+    background: #9BC1C2 url("images/logo.jpg") no-repeat ;
+    background-position: right; 
+    text-indent: 50px; 
+}
+/* The text at the top of the page within the header */
+.logotext {
+    padding-left: 0px;
+    color: #3F2860;
+}
+/* Style for the image on index / homepage*/
+.Door1 {
+    width: 350px;
+    float: left;
+    padding-top: 10px;
+}
+.yoga_Pic { 
+    padding-top: 10px; 
+}
+
+/* Container section of edits which includes all navigation bars, intro, intro2, info blue_text, classTitle, classDesc*/
+.container {
+    margin-top: 20px;
+    width: 60%;
+    min-width: 1000px;
+    margin: 0px auto;
+}
+/* Style to the intro and intro1 classes*/
+.wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F5F5F5;
+    
+}
+
+.wrapper2 {
+    text-align: center; 
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F5F5F5;
+    line-height: 400%;  
+}
+/* Style to the first  header and first paragraph */
+.intro {
+    color: #3F2860;
+    line-height: 30px;
+    margin: 0px;
+    text-align: left;
+    
+}
+/* Style to a list of the offers the bussines lists */
+.intro2 {
+    color: #3F2860;
+    line-height: 30px;
+    margin: 0px;
+    text-align: left;
+    text-indent: 10px;
+}
+/* Style to the infomation on the website */
+.info {
+    color: #3F2860;
+    margin-top: 60px;
+}
+/* Style to the Header above classtitle*/
+.Yoga_Classes {
+    color: #3F2860;
+    font-size: 30px;
+    
+}
+/* Style to the classes */
+.classTitle {
+    color: #3F2860;
+    font-size: 20px;
+}
+/* Style to the class descriptions*/
+.classDesc {
+    color: #3F2860;
+}
+
+.ContactIntro {
+    color: #3F2860;
+    font-size: 20px;
+}
+/* Style to the table headers */
+.Table_Headers {
+    text-align: center;
+    color: #3F2860;
+    font-size: 20px;
+}
+
+table {
+
+    border: 1px solid #000000;
+    width: 70%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #9BC1C2;
+}
+
+/* Style to the navigation bars */
+.nav {
+    
+    margin-bottom: 440px; 
+    float: left;
+    list-style: none;
+    padding: 40px;
+    width: 120px;
+    background-color: #f3f3f3;
+}
+/* Text within the navigation bar */
+    .nav a {
+        padding: 60px;
+        margin: 60px;
+        display: inline-block;
+        color: #9BC1C2;
+        text-decoration: none;
+        display: block;
+        padding: 10px 10px;
+        margin: 15px;
+        text-align: center; 
+    }
+/* Style of the navigation boxes */
+    .nav li {
+        border-bottom: 1px solid #555;
+        border-top: 1px solid #555;
+        border: 1px solid #555;
+        box-shadow: 5px 10px;
+    }
+/* Mouse over link */
+li a:hover {
+    background: #D8D4DF;
+    color: #A26100
+}
+/* Un-visited link*/
+li a:link {
+    color: #3F2860;
+}
+/*  visted link */
+li a:visited {
+    color: #497777;
+}
+/* Just makes the number and email blue. */
+.Blue_Text {
+    
+    color: blue;
+}
+/* Footer settings */
+footer {
+    color: #3F2860;
+    height: 100%;
+    width: 100%; 
+    background-color: #9BC1C2;
+    text-align: center;
+}
+
+textarea {
+    text-align:center; 
+    width: 300px;
+    height: 150px;
+}
+
+/*    
+
+Table border 1px solid #3F2860
+
+Table background color even rows #9BC1C2
+*/
